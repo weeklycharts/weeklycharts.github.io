@@ -1,2 +1,3 @@
 # weeklycharts.github.io
 This directory stores the source files for website.
+[weeklycharts.github.io](https://weeklycharts.github.io)
